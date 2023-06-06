@@ -96,3 +96,27 @@ img
     width: 6rem;
     height: 4rem;
 }
+.daniella{
+    background-color: wheat ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-top: 2rem;
+
+    
+    
+}
+
+
+h1
+{
+    margin-bottom: 1rem;
+}
+
+.pic
+{
+    width: 6rem;
+    height: 4rem;
+    justify-content: center;
+}
